@@ -13,8 +13,6 @@ ParamHunter Pro scans the current page **and** hooks into its live JavaScript ru
   <img src="docs/screenshot.png" alt="ParamHunter Pro popup screenshot" width="420">
 </p>
 
-> Replace `docs/screenshot.png` with an actual screenshot of the popup before publishing.
-
 ---
 
 ## Table of Contents
