@@ -70,7 +70,7 @@ The classic **GAP** Burp extension parses static HTML/JS with regular expression
 
 1. Clone or download this repository.
    ```bash
-   git clone https://github.com/<your-username>/paramhunter-pro.git
+   git clone https://github.com/metidev/paramhunter-pro.git
    ```
 2. Open `chrome://extensions` in Chrome (or any Chromium-based browser).
 3. Enable **Developer mode** (top right).
